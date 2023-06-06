@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="defb8b5e-a55e-466b-be8f-310bd6895445" name="Changes" comment="" />
+    <list default="true" id="defb8b5e-a55e-466b-be8f-310bd6895445" name="Changes" comment="KAKA">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0523.html" beforeDir="false" afterPath="$PROJECT_DIR$/0523.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +20,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QB4w9rPOQ4cuaCwGL29q2OcOpo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,11 +58,35 @@
       <workItem from="1685412634541" duration="1291000" />
       <workItem from="1685421772268" duration="346000" />
       <workItem from="1685422181754" duration="450000" />
-      <workItem from="1686017415566" duration="3816000" />
+      <workItem from="1686017415566" duration="4929000" />
+      <workItem from="1686044792873" duration="159000" />
     </task>
+    <task id="LOCAL-00001" summary="KAKA">
+      <created>1686025977055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686025977055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="KAKA" />
+    <option name="LAST_COMMIT_MESSAGE" value="KAKA" />
   </component>
 </project>
