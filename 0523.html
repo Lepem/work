@@ -6,12 +6,14 @@
 
     <style>
     div{
-    width:100%;
+    width:80%;
     height:470px;
     }
+
     .KA-L{
     background-image: url("img/L.png");
     background-repeat: no-repeat;
+    background-position:center;
     }
 
     .KA-R{
@@ -26,11 +28,13 @@
     <div class="KA-L" id="KA"></div>
     <script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
     <script>
+        const audio = new Audio("/audio/loop.mp3");
         $(function () {
 
            $("#KA").on("mouseup",function(){
                $("#KA").removeClass("KA-R");
                $("#KA").addClass("KA-L");
+               audio.play();
            })
             $("#KA").on("mousedown",function(){
                 $("#KA").removeClass("KA-L");
@@ -38,5 +42,10 @@
             })
         });
     </script>
+
+    </script>
+
+    </script>
+
 </body>
 </html>
